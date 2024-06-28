@@ -1,5 +1,4 @@
 import 'dart:ffi';
-
 import 'package:flutter/foundation.dart';
 import 'explosao_exception.dart';
 
@@ -84,7 +83,7 @@ class Campo {
     _marcado = !_marcado;
   }
 
-  bool get resolvido(){
+  bool get resolvido{
     bool minadoEMarcado = minado && marcado;
     bool seguroEAberto = !minado && aberto;
 
