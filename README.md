@@ -7,11 +7,11 @@ Neste jogo, aprendi a usar o ambiente de testes do flutter.
 
 ### Layout
 
-> :construction: Projeto em construção :construction:
+<img src="./assets/readme/imgs/NewGame.png" alt="NewGame" width="270px"> <img src="./assets/readme/imgs/GameWin.png" alt="Game Win" width="270px"> <img src="./assets/readme/imgs/bombs_Explosion.png" alt="Loose game" width="270px"> 
 
 #### GIFS
 
-> :construction: Projeto em construção :construction:
+<img src="./assets/readme/GIFs/PlayGame.gif" alt="PlayGame" width="270px">
 
 ## Como foi feito este projeto?
 
@@ -19,10 +19,10 @@ Este projeto foi totalmente feito a partir de um curso da udemy, na qual você p
 
 Neste projeto contém estruturas de fundamentos de flutter, sendo elas:
 - [X] Ambiente de testes;
-- [ ] Campo;
-- [ ] Tabuleiro;
-- [ ] Tela do game;
-- [ ] Jogo pronto
+- [X] Campo;
+- [X] Tabuleiro;
+- [X] Tela do game;
+- [X] Jogo pronto
 
 ### Tecnologias utilizadas
 - ``VSCode``
